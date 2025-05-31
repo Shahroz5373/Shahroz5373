@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Android App Development**
 
-- 🌱 I’m currently learning **Flutter,Cloud Computing**
+- 🌱 I’m currently learning **Flutter**
 
 - 👯 I’m looking to collaborate on **Android Devlopment Projects**
 
