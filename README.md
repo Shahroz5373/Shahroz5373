@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shahroz</h1>
 <h3 align="center">A passionate Android App developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **Android App Development**
+- 🔭 I’m currently working on **Flutter App Development**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 👯 I’m looking to collaborate on **Android Devlopment Projects**
 
-- 🤝 I’m looking for help with **Android App Development Projects**
+- 🤝 I’m looking for help with **App Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shahroz5373?tab=repositories](https://github.com/Shahroz5373?tab=repositories)
 
