@@ -12,8 +12,8 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 
-<a href="mailto:shahrozjavid5373@gmail.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=shahrozjavid5373@gmail.com" target="_blank">
+<img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="30" width="40"/>
 </a>
 </p>
 
